@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="massaTrancodes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/massaTrancodes_jar</output-path>
+    <root id="archive" name="massaTrancodes.jar">
+      <element id="module-output" name="massaTrancodes" />
+    </root>
+  </artifact>
+</component>
